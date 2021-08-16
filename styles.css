@@ -1,0 +1,182 @@
+body{
+    font-family:"Montserrat";
+}
+h1{  
+    font-family: 'Montserrat Alternates', sans-serif;
+      font-size: 3rem;  
+      line-height: 1.5;  
+      font-weight: 1500;
+    }
+    .head1{
+        margin:0 0 12% 0;
+    }
+    #title{
+        background-color:#ff4c68;
+        color:#fff;
+        position:relative;
+        z-index:0;
+  
+     
+    }
+    #features{
+
+      position:relative;
+      z-index:1;
+       
+    }
+    .white{
+        color:white;
+    }
+
+  .container{
+      padding:5% 5%;
+      
+      
+    
+  }
+ .navbar-brand{
+     font-family:"Ubuntu";
+     font-size:20px;
+     font-weight: bold;
+     
+ }
+ .navbar{
+    margin
+     padding:9px 0 9px 0;
+     
+ }
+ .dig-pic{
+     width:13rem;
+     transform: rotate(30deg);
+ }
+ .c1{
+    padding: 6% 4% 2% 2%;
+
+ }
+ .c2{
+    padding: 8% 5% 6% 15%;
+ }
+ .column-spaceup{
+     margin-top: 0rem;
+ }
+ .btn{
+    margin-right: 6%;
+    padding: 2%;
+ }
+ .featureshead{
+     padding:14%;
+ }
+ .specificfea{
+     padding-right: 4%;
+     text-align: center;
+     padding:6%;
+     line-height:3rem;
+     
+ }
+ .icon{
+     color:#ff4c68;
+ }
+ .icon:hover{
+     color:#eba0ab;
+ }
+ .h3{
+    font-family:"montserrat-bold";
+ }
+ .p{
+     color:#8f8f8f;
+
+ }
+ .fonth{
+    font-family: 'Montserrat Alternates', sans-serif;
+
+ }
+ #testimonials{
+     padding:8% 5%;
+     text-align:center;
+     background-color:#ef8172;
+     color:#fff;
+ }
+ .head2{
+    font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 2rem;
+     line-height:1.5;
+     padding:0 25% 0 25%;
+     
+     
+ }
+ .testimonial-image {
+     border-radius:50%;
+     width:10%;
+ }
+ #press{
+     background-color:#ef8172;
+     padding:8% 8%;
+     text-align:center;
+
+ }
+ .presimage{
+     width:20%;
+
+ }
+ .boder{
+    
+    border:1px solid grey;;
+ }
+ .boder1{
+     background-color:rgb(241, 229, 229);
+ }
+ .boder2{
+     background-color:rgb(238, 227, 238);
+ }
+ 
+ #pricing{
+     text-align:center;
+     
+     
+   
+ }
+ .pricinghead{
+     padding:8% 3%;
+
+ }
+ h2{
+   font-family:'Montserrat Alternates', sans-serif;
+ }
+ p{
+font-style:inherit;
+
+ }
+ #cta{
+     background-color:#ff4c68;
+     padding:4% 4% 10%;
+     text-align:center;
+ }
+.head3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:white;
+    font-size:2em;
+    padding:3%
+}
+.btn1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding:1%;
+    font-size:1em;
+    
+}
+.btn:hover{
+    background-color:grey;
+
+
+}
+footer{
+    text-align:center;
+    padding:4% 5% 0 ;
+    background-color:rgb(243, 235, 235);
+    font-style: italic;
+    font-size: 1em;
+    color:grey;
+
+}
+.head12{
+    font-size:3em;
+}
