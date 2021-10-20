@@ -4,7 +4,7 @@
   
     
    text-align:center;
-    margin: 10% 15% 10% 15%;
+   margin: 10% 15% 10% 15%;
  line-height:40px;
  padding:5% 2% 0 5%;
  
@@ -13,6 +13,7 @@
 }
 .container{
     background-color:black;
+    width:50%;
     height:500px;
     
     border-radius:50px;
